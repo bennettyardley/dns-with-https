@@ -10,4 +10,4 @@ cd = data['CD']
 if not cd:
     print(url + " -> " + str(ip))
 else:
-    " was not used"
+    "HTTPS was not used"

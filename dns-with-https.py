@@ -1,5 +1,5 @@
 import requests
-import uuid
+ uuid
 
 url = raw_input("Enter URL (ex. google.com): ")
 rand = str(uuid.uuid4())
